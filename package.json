@@ -1,0 +1,14 @@
+{
+  "name": "jpg-code-embed",
+  "version": "1.0.0",
+  "description": "Embeds code (such as PHP scripts) in JPG exif tags",
+  "main": "jpg-code-embed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hypn",
+  "dependencies": {
+    "command-line-args": "4.0.2",
+    "piexifjs": "1.0.3"
+  }
+}
